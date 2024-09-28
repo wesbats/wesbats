@@ -15,14 +15,13 @@ Sobre mim:
 
 ## Tecnologias já utilizei
 <div style="display: flex">
-  <img align="center" alt="Ar-React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Ar-PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Ar-MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
 ## Estou aprendendo
-<img align="center" alt="Ar-RAngular" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-
+  <img align="center" alt="Ar-React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  
 ##
 <a href="https://github.com/wesbats">
   <img align='center' height="170em" src="https://github-readme-stats.vercel.app/api?username=wesbats&show_icons=true&bg_color=00000000"/>
