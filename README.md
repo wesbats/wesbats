@@ -1,29 +1,44 @@
-# Olá Mundo! Me chamo Weslley e seja bem vindo ao meu perfil do GitHub!
-Sobre mim:
-- 💼 Atualmente trabalho no centro de processamento de dados do Atacadão, estudando bastante para migrar para a Área de programação.
-- ⌨️ Utilizo em meu ambiente de trabalho Linux, Bash, Windows, Excel, entre outros sistemas de uso corporativo.
-- 👾 Atualmente estou estudando com mais ênfase C# para Back-End, mas já conheço algumas tecnologias Web, como HTML, CSS, JS, React e PHP.
-- 💪🏼 Em foco para me tornar um desenvolvedor Full-Stack.
+<h1 align="center">👋 Olá! Eu sou o Weslley</h1>
 
-## Tecnologias mais utilizadas
-<div style="display: flex">
-  <img align="center" alt="Ar-C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ar-Js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ar-HTML" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Ar-CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
+<p align="center">
+  Desenvolvedor Full Stack em formação | Amante de tecnologia, animes e jogos 🎮✨
+</p>
 
-## Tecnologias já utilizei
-<div style="display: flex">
-  <img align="center" alt="Ar-PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Ar-MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
+---
 
-## Estou aprendendo
-  <img align="center" alt="Ar-React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  
-##
-<a href="https://github.com/wesbats">
-  <img align='center' height="170em" src="https://github-readme-stats.vercel.app/api?username=wesbats&show_icons=true&bg_color=00000000"/>
-  <img align='center' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesbats&layout=compact&show_icons=true&bg_color=00000000)"/> 
-</a>
+### 🚀 Sobre mim
+
+- 📚 Estudando para me tornar Desenvolvedor Full Stack com foco em **JavaScript, React e Node.js**
+- 🧠 Tenho mais domínio em **C#**, mas atualmente estou expandindo meus conhecimentos em outras stacks
+- 👨‍💻 Desenvolvendo projetos próprios, como sistemas de estoque e apps gamificados de estudos com mascotes virtuais
+- 🐾 Adoro gatinhos e curto transformar estudos em algo divertido com gamificação
+
+---
+
+### 🛠️ Tecnologias que estou usando
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+---
+
+### 📌 Projetos em destaque
+
+- **DevNotes**: caderno digital de anotações para estudos, leve e offline com Electron
+- **Gato de Estudos** *(em planejamento)*: gamificação de hábitos com mascote virtual
+
+---
+
+### 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesbats)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:weslleyvitorbatista@icloud.com)
+
+---
+
+<p align="center">Feito com ❤️ e café por Weslley</p>
